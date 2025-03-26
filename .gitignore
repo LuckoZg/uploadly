@@ -1,3 +1,10 @@
 __pycache__
 .venv
+
+migrations/*
+!migrations/.gitkeep
+uploads/*
+!uploads/.gitkeep
+
+.env
 plan.txt
